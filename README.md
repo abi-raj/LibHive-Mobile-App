@@ -27,7 +27,6 @@ width="200" hspace="10" vspace="10">
 
 ## Permissions
 
-On Android versions prior to Android 6.0, wallabag requires the following permissions:
 - Full Network Access.
 - View Network Connections.
 
