@@ -21,7 +21,7 @@ width="200" align="left" hspace="10" vspace="10">
     
 <img src="https://user-images.githubusercontent.com/57340523/127256299-ab67195d-a63d-4e84-86cd-40fffaa6541c.png" width="200" align="left" hspace="10" vspace="10">
 <img src="https://user-images.githubusercontent.com/57340523/127256381-1cb412b9-8077-4e28-9021-f4d74d3f12fe.png" 
-width="200"  hspace="10" vspace="10">
+width="200" align="center" hspace="10" vspace="10">
 
 
 ## Permissions
