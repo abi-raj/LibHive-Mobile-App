@@ -15,14 +15,13 @@ This android app lets you:
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/57340523/127256130-9a9da8df-a64d-43b4-bc60-da03fb84f3f8.png" 
-width="200"
-    hspace="10" vspace="10">
+width="200" align="left" hspace="10" vspace="10">
 <img src="https://user-images.githubusercontent.com/57340523/127256185-d5ef8b7f-536a-43b7-9010-24e6180c7e9c.png" 
-width="200" hspace="10" vspace="10">
+width="200" align="left" hspace="10" vspace="10">
     
- <img src="https://user-images.githubusercontent.com/57340523/127256299-ab67195d-a63d-4e84-86cd-40fffaa6541c.png" width="200" hspace="10" vspace="10">
+<img src="https://user-images.githubusercontent.com/57340523/127256299-ab67195d-a63d-4e84-86cd-40fffaa6541c.png" width="200" align="left" hspace="10" vspace="10">
 <img src="https://user-images.githubusercontent.com/57340523/127256381-1cb412b9-8077-4e28-9021-f4d74d3f12fe.png" 
-width="200" hspace="10" vspace="10">
+width="200" align="left" hspace="10" vspace="10">
 
 
 ## Permissions
@@ -34,5 +33,6 @@ width="200" hspace="10" vspace="10">
 - [Flutter](https://flutter.dev/) - for mobile
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/) - for backend API <br>
 ### The API can be found [here](https://github.com/abi-raj/Libgen-API)
+Source code soon :-) .
 
 
